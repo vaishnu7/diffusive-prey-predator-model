@@ -1,1 +1,3 @@
-# spatial-prey-predator-model2
+# Spatial Prey Predator Model Number 2
+
+[details will be uploaded tomorrow]
