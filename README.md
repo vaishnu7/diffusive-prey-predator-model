@@ -1,4 +1,4 @@
-# Spatial Prey Predator Model
+# 🛠 Spatial Prey Predator Model 
 
 In this referred paper (look for the description link of this repository) the authors presented the general spatial predator-prey model that will be analyzed throughout their work.
 The model is defined in the one-dimensional spatial-temporal domain (0, L) x (0, T] (refer to the equation number 1 in the paper)
