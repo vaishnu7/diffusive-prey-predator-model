@@ -15,7 +15,7 @@ qc = 0.05;
 Thcr = 1;
 
 %---------------------------------------------------%
-  
+%initialization and step size definition  
 L=10;
 T=1000;
 dx = 0.05;
@@ -61,3 +61,4 @@ for n = 1:Nt-1
     end
 end
 plot(x, C(:,Nt))
+%we are plotting C because we are concerned with the Predator here, if we are to check the plot for R we can change the command as plot(x, R(:, Nt))
